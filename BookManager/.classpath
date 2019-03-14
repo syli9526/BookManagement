@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_192/lib/ext/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_192/lib/ext/API/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_192/lib/ext/API/commons-collections4-4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_192/lib/ext/API/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_192/lib/ext/API/curvesapi-1.05.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_192/lib/ext/API/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_192/lib/ext/API/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_192/lib/ext/API/poi-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_192/lib/ext/API/poi-examples-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_192/lib/ext/API/poi-excelant-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_192/lib/ext/API/poi-ooxml-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_192/lib/ext/API/poi-ooxml-schemas-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_192/lib/ext/API/poi-scratchpad-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_192/lib/ext/API/xmlbeans-3.0.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
